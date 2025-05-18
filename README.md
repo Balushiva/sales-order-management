@@ -3,6 +3,13 @@
 A responsive and user-friendly Single Page Application (SPA) for managing sale orders, built using **React**, **Chakra UI**, **React Router DOM**, **React Hook Form**, and **TanStack React Query**.
 
 ---
+## 🔑 Default Login Credentials
+
+To access the application, use the following credentials:
+
+| Username       | Password   |
+|----------------|------------|
+| user           | password |
 
 ## 🚀 Features
 
@@ -67,4 +74,5 @@ npm install
 npm run dev
 ## 🔗 Live Demo
 https://sales-order-management-opal.vercel.app/
+
 
