@@ -65,4 +65,6 @@ npm install
 
 # Start the development server
 npm run dev
+## 🔗 Live Demo
+https://sales-order-management-opal.vercel.app/
 
